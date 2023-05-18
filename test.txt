@@ -1,3 +1,7 @@
 this is new
 
+<<<<<<< HEAD
 from susu
+=======
+This is from xxx
+>>>>>>> bf710b9fc70f445dba0fccf63bbe49579430576e
